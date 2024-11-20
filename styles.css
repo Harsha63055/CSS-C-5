@@ -1,0 +1,145 @@
+#box1 {
+  border: 2px solid black;
+  height: 400px;
+  width: 240px;
+  background-color: aqua;
+  border-radius: 20px;
+  overflow: scroll;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+#c1 {
+  border: 2px solid black;
+  height: 30px;
+  width: 240px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: darkgray;
+  position: fixed;
+  top: 9.5px;
+  z-index: 1;
+}
+#c2 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  background-color: white;
+  position: relative;
+  top: 40px;
+  left: -60px;
+}
+#c3 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  background-color: white;
+  position: relative;
+  top: 45px;
+  left: 60px;
+}
+#c4 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  background-color: white;
+  position: relative;
+  top: 50px;
+  left: -60px;
+}
+#c5 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 60px;
+  left: 60px;
+  background-color: white;
+}
+#c6 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 66px;
+  left: -60px;
+  background-color: white;
+}
+#c7 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 66px;
+  left: 60px;
+  background-color: white;
+}
+#c8 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 76px;
+  left: -60px;
+  background-color: white;
+}
+#c9 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 80px;
+  left: 60px;
+  background-color: white;
+}
+#c10 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 85px;
+  left: -60px;
+  background-color: white;
+}
+#c11 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 90px;
+  left: 60px;
+  background-color: white;
+}
+#c12 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 96px;
+  left: -60px;
+  background-color: white;
+}
+#c13 {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+  position: relative;
+  top: 96px;
+  left: 60px;
+  background-color: white;
+}
+#b1 {
+  border: 2px solid black;
+  height: 30px;
+  width: 240px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  text-align: left;
+  background-color: aliceblue;
+  position: fixed;
+  top: 376px;
+}
+.chat-input {
+  margin-left: 12px;
+  margin-top: 3px;
+}
